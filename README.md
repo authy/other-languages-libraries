@@ -14,7 +14,6 @@ to get it list it here__
 
     https://github.com/jed204/authy-java
 
-
 ### Node.JS
 
     https://github.com/evilpacket/node-authy
@@ -26,6 +25,15 @@ to get it list it here__
 ### C#  
 
     https://bitbucket.org/devinmartin/authy.net
+
+### Lua
+
+    https://github.com/pirogoeth/authy-lua
+
+### Go
+
+    https://github.com/dcu/go-authy
+
 
 ## Plugins for products
 
